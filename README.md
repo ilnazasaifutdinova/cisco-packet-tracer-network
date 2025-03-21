@@ -41,6 +41,15 @@ It includes:
 - `Enterprise_Network_Review.pdf` – Detailed documentation and topology diagrams
 - Network_Topology.png
 - README.md
+- `.gitattributes` – Linguist config to detect .pkt as project language
+
+---
+
+## 🧪 How to Use This Project
+
+1. 📥 Open the `.pkt` file in **Cisco Packet Tracer** (version 8.x or higher)
+2. 💡 Explore the full simulation: subnets, firewall, DHCP, DNS, WAN
+3. 🧠 Review the documentation for detailed configuration and design
 
 ---
 
