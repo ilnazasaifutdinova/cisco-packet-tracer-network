@@ -1,5 +1,0 @@
-# Ensure .pkt is considered a source file
-*.pkt linguist-detectable=true
-
-# Mark documentation only
-*.md linguist-documentation
