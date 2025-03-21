@@ -41,7 +41,6 @@ It includes:
 - `Enterprise_Network_Review.pdf` – Detailed documentation and topology diagrams
 - Network_Topology.png
 - README.md
-- `.gitattributes` – Linguist config to detect .pkt as project language
 
 ---
 
